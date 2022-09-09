@@ -7,4 +7,5 @@
   - **E-mail** : 574145545@qq.com
 
 -  **code时间(wakatime)** : 
-![Ashutosh's github activity graph](https://wakatime.com/share/@tonyChen/4b1bb77d-f7d2-4a81-942c-29c69721d668.svg)
+
+![wakatime统计的codeing时间](https://wakatime.com/share/@tonyChen/4b1bb77d-f7d2-4a81-942c-29c69721d668.svg)
