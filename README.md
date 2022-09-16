@@ -1,6 +1,6 @@
 ### Hi there `Tony Chen / 陈楚海` 👋
 
-> 来自 **广东** 从事<br>
+> 来自 **广东** <br>
 ![Relative date](https://img.shields.io/date/1500220800?label=%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91&style=social)
 
 - 📫 **联系方式** :  
